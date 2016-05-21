@@ -6,3 +6,4 @@ public class Test {
 }
 
 interface TTT {}
+interface BBB {}
