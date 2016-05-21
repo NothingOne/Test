@@ -4,3 +4,6 @@ public class Test {
     System.out.println("Happy Day!");
   }
 }
+
+interface TTT {}
+interface BBB {}
